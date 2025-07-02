@@ -1,1 +1,1 @@
-# StaticMapGimmick
+# StaticMapDisplayGimmick
